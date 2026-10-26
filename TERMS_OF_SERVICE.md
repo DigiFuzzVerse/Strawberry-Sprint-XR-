@@ -1,6 +1,6 @@
 # Strawberry Sprint MR – Terms of Service
 
-**Last Updated: Octomber 2026**
+**Last Updated: October 2026**
 
 These Terms of Service ("Terms") govern your use of Strawberry Sprint MR ("the App", "we", "our", "us") on Meta Quest devices. By installing or using the App, you agree to these Terms.
 
@@ -144,4 +144,4 @@ For questions about these Terms:
 
 ---
 
-*Last Updated: June 2026*
+*Last Updated: October 2026*
