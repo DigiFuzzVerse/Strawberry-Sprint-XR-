@@ -1,147 +1,70 @@
-# Strawberry Sprint MR – Terms of Service
+# Strawberry Sprint MR — Terms of Service
 
-**Last Updated: October 2026**
+**Effective date: November 14, 2026**
 
-These Terms of Service ("Terms") govern your use of Strawberry Sprint MR ("the App", "we", "our", "us") on Meta Quest devices. By installing or using the App, you agree to these Terms.
+These Terms of Service (the **“Terms”**) apply to your access to and use of **Strawberry Sprint MR** (the **“App”**), published by **DigiFuzzVerse** (**“we,” “us,”** or **“our”**) for Meta Quest devices. By installing or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
-If you do not agree, you must uninstall and discontinue use of the App.
+The Meta platform may impose additional terms and safety requirements. Those terms also apply to your platform use.
 
----
+## 1. Permission to use the App
 
-## 1. License to Use the App
+Subject to these Terms and applicable platform rules, we grant you a personal, non-exclusive, non-transferable, revocable license to install and use the App on a Meta Quest device you own or control, for personal, non-commercial use.
 
-We grant you a personal, non‑exclusive, non‑transferable, revocable license to install and use the App on Meta Quest devices you own or control.
+You must not, except where applicable law does not allow us to restrict it:
+- copy, modify, distribute, sell, or commercially exploit the App without our permission;
+- reverse engineer or decompile the App;
+- circumvent security or access controls;
+- use cheats, automation, or unauthorized modifications; or
+- interfere with the App or use it in violation of law, platform rules, or another person’s rights.
 
-You may not:
+## 2. Safe use and player responsibilities
 
-* Copy, modify, or distribute the App
-* Reverse engineer or decompile the App
-* Use the App for commercial purposes without permission
-* Circumvent security or access controls
+Use the App safely and follow Meta’s safety guidance. Ensure you have enough clear space, remain aware of people and objects around you, and stop playing if you experience discomfort, dizziness, or fatigue. Mixed-reality features may involve physical movement and interaction with your surroundings.
 
----
+You are responsible for information you choose to enter in the App, such as a player nickname. Do not enter information that you do not want displayed or used by the relevant feature.
 
-## 2. User Responsibilities
+## 3. Privacy
 
-You agree to:
+Our [Privacy Policy](PRIVACY_POLICY.md) explains the App’s stated information practices. Meta may separately process information under its own policies. Please review both.
 
-* Use the App safely and within your physical environment
-* Follow all Meta platform rules and safety guidelines
-* Ensure you have adequate play space and awareness of surroundings
-* Avoid harmful, abusive, or unlawful behavior
+## 4. Updates and availability
 
-You are responsible for any content you enter into the App (e.g., player nicknames).
+We may update the App to maintain, improve, or change its features, address issues, or meet platform requirements. We do not guarantee that the App or any feature will always be available, uninterrupted, or compatible with every device or configuration.
 
----
+We may suspend or discontinue the App, in whole or in part, where reasonably necessary for operational, security, legal, or platform reasons.
 
-## 3. Health & Safety Notice
+## 5. Ownership
 
-Mixed‑reality experiences may involve physical movement. You acknowledge that:
+The App and its original content—including its software, graphics, interface, gameplay systems, and branding—are owned by us or our licensors and are protected by applicable laws. These Terms do not transfer ownership to you. You may not use our intellectual property without permission, except as allowed by law.
 
-* You must maintain awareness of your environment
-* You are responsible for avoiding obstacles, people, and hazards
-* You should stop using the App if you feel discomfort, dizziness, or fatigue
+## 6. Ending access
 
-We are not responsible for injuries or property damage resulting from unsafe use.
+You may stop using the App at any time by uninstalling it. We may suspend or terminate access if we reasonably believe you have violated these Terms, or if required by law or the platform. Uninstalling may remove data stored locally by the App; see the Privacy Policy for details.
 
----
+## 7. Disclaimers
 
-## 4. Privacy
+To the extent permitted by law, the App is provided “as is” and “as available.” We do not promise uninterrupted operation, compatibility with every device, or error-free performance. Nothing in these Terms excludes warranties or rights that applicable law does not allow us to exclude.
 
-Your use of the App is also governed by our Privacy Policy. The App is designed to operate without collecting personal data.
+## 8. Liability
 
-View the policy here: PRIVACY_POLICY.md
+Nothing in these Terms limits liability where such a limitation is prohibited by law. To the extent permitted by law, we are not liable for indirect or consequential loss arising from your use of, or inability to use, the App. This does not limit liability that cannot legally be limited.
 
----
+## 9. Applicable law
 
-## 5. Updates and Changes
+Mandatory consumer protections in your country of residence continue to apply. Where permitted by law, these Terms are governed by the laws of the Netherlands. Courts with jurisdiction under applicable law will resolve disputes.
 
-We may update the App to:
+## 10. Changes to these Terms
 
-* Improve performance
-* Fix bugs
-* Add or remove features
-* Comply with platform requirements
+We may revise these Terms to reflect changes to the App, our practices, or legal requirements. We will post the revised version with an updated effective date. If required, we will provide additional notice. Continued use after revised Terms take effect means you accept them; if you do not agree, stop using the App.
 
-These updates may occur automatically.
+## 11. Contact
 
----
+For questions about these Terms, contact:
 
-## 6. Intellectual Property
-
-All content in the App—including graphics, UI, code, gameplay systems, and branding—is owned by the developer and protected by copyright and other laws.
-
-You may not use our intellectual property without permission.
+**DigiFuzzVerse**  
+Email: [digifuzzverse@gmail.com](mailto:digifuzzverse@gmail.com)  
+Website: [https://digifuzzverse.nl](https://digifuzzverse.nl)
 
 ---
 
-## 7. Prohibited Conduct
-
-You agree not to:
-
-* Attempt to hack, exploit, or modify the App
-* Use cheats, automation tools, or unauthorized modifications
-* Interfere with the App's operation
-* Misrepresent your identity or impersonate others
-
----
-
-## 8. Termination
-
-We may suspend or terminate your access to the App if you violate these Terms. You may terminate your use at any time by uninstalling the App.
-
-Uninstalling removes all locally stored data.
-
----
-
-## 9. Disclaimer of Warranties
-
-The App is provided "as is" and without warranties, including:
-
-* No guarantee of uninterrupted operation
-* No guarantee of compatibility with all devices
-* No guarantee of error‑free performance
-
-To the maximum extent permitted by law, we disclaim all implied warranties.
-
----
-
-## 10. Limitation of Liability
-
-To the fullest extent permitted by law, we are not liable for:
-
-* Injuries or property damage resulting from MR use
-* Loss of gameplay data stored locally
-* Device malfunctions
-* Platform outages or third‑party service issues
-* Indirect, incidental, or consequential damages
-
-Your sole remedy is to stop using the App.
-
----
-
-## 11. Governing Law
-
-These Terms are governed by the laws of the Netherlands, without regard to conflict‑of‑law principles.
-
----
-
-## 12. Changes to These Terms
-
-We may update these Terms from time to time. The updated version will be posted with a new "Last Updated" date. Continued use of the App constitutes acceptance of the updated Terms.
-
----
-
-## 13. Contact Information
-
-For questions about these Terms:
-
-**Developer:** Orestis Spyrou
-
-**Location:** Wageningen, Netherlands
-
-**Email:** digifuzzverse@gmail.com
-
----
-
-*Last Updated: October 2026*
+This document is a general draft, not legal advice. Check it against the App’s actual features and applicable laws before relying on or publishing it.

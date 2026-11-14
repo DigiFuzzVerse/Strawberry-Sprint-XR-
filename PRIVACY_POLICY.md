@@ -1,179 +1,60 @@
-# Strawberry Sprint MR – Privacy Policy (GDPR‑Compliant, Extended Version)
+# Strawberry Sprint MR — Privacy Policy
 
-**Effective Date: October 2026**
+**Effective date: November 14, 2026**
 
-This Privacy Policy ("Policy") explains how Strawberry Sprint MR ("the App", "we", "our", "us") collects, uses, stores, and protects information when you use the application on Meta Quest devices.
-This Policy applies to all versions of the App and any related services on which this Policy is displayed.
+This Privacy Policy explains how **DigiFuzzVerse** (**“we,” “us,”** or **“our”**) handles information in connection with **Strawberry Sprint MR** (the **“App”**) on Meta Quest devices. It describes the App’s stated practices; Meta may separately process information under its own privacy notices.
 
-By installing or using the App, you agree to the practices described below.
+## 1. Information processed by the App
 
----
+The App is designed to operate with minimal data collection. Based on its current implementation, information used for gameplay may include:
 
-## 1. Personal Information We Process
+- **Nickname and preferences:** a player nickname for leaderboard display and local gameplay preferences, such as interface settings. The existing App description states that these remain on the device and are not transmitted externally.
+- **Mixed-reality input:** hand or controller input, spatial mapping or surface detection, and passthrough rendering as needed for gameplay. The existing App description states this information is processed in real time and not stored by the App.
 
-Strawberry Sprint MR is designed to operate with minimal data collection.
-We do not collect, store, or transmit any personally identifiable information (PII).
+The App’s current policy states that it does not collect or transmit biometric identifiers, face or eye tracking data, voice recordings, camera images, location data, IP addresses, device identifiers, or analytics data. Meta platform services may independently process information under Meta’s policies.
 
-We only process the following categories of non‑personal, device‑local data:
+## 2. How information is used
 
-### A. Information You Provide
+Information processed locally by the App is used to provide gameplay, render mixed-reality interactions, display scores and progress, and maintain local preferences. The App’s current policy states that information is not used for marketing, profiling, or advertising.
 
-* Player nickname entered for leaderboard display
-* Local gameplay preferences (e.g., UI settings)
+## 3. Sharing and third-party services
 
-This information remains on your device and is never transmitted externally.
+The App’s current policy states that it does not share App-collected data with advertisers, analytics providers, cloud services, social networks, or other third parties, and that it does not integrate analytics, advertising, cloud storage, social media, or payment services. Meta Quest platform services operate separately and are governed by Meta’s own terms and privacy notices.
 
-### B. Information Collected Automatically
+## 4. Cookies and similar technologies
 
-To enable mixed‑reality gameplay, the App processes:
+The App’s current policy states that it does not use cookies, tracking technologies, analytics SDKs, or advertising technologies.
 
-* Hand tracking or controller input
-* Spatial mapping / surface detection
-* Passthrough rendering
+## 5. Retention and security
 
-This data is processed in real time only and is not stored.
+The App’s current policy states that gameplay data is stored locally, not retained on our external servers, and removed when the App is uninstalled. Local storage and deletion behavior may depend on the device and platform. We do not control data retained independently by Meta.
 
-### C. No Sensitive Data
+## 6. Children
 
-We do not collect:
+Use of the App is subject to the age requirements of the Meta platform and applicable law. The App’s current policy states that it has no online features and does not collect personal data. If you believe personal information has been provided to us in error, please contact us using the details below.
 
-* Biometric identifiers
-* Facial tracking data
-* Eye tracking data
-* Voice recordings
-* Camera images
-* Location data
-* IP addresses
-* Device identifiers
-* Analytics data
+## 7. Your rights and choices
 
----
+Depending on where you live and whether we process personal information about you, you may have rights to request access, correction, deletion, restriction, or a copy of that information, or to object to certain processing. You may also have the right to complain to a data-protection authority. These rights are subject to applicable law and exceptions.
 
-## 2. Cookies and Similar Technologies
+To make a request, contact us below. You can use Meta’s account and privacy controls for information Meta processes independently.
 
-The App does not use cookies, trackers, analytics SDKs, or advertising technologies.
+## 8. International processing
 
----
+The App’s current policy states that it does not transmit or store information externally. Meta platform services are operated separately and may process information under their own policies, including in other countries.
 
-## 3. How We Use the Information
+## 9. Changes to this Policy
 
-We use local, non‑personal data solely to:
+We may revise this Policy to reflect changes to the App, our practices, or legal requirements. We will post the revised version with an updated effective date and provide any additional notice required by law.
 
-* Render mixed‑reality interactions
-* Display scores and progress
-* Maintain gameplay functionality
-* Store local preferences
-* Improve user experience within the App
+## 10. Contact and privacy requests
 
-We do not use data for marketing, profiling, or advertising.
+For privacy questions or requests, contact:
+
+**DigiFuzzVerse**  
+Email: [digifuzzverse@gmail.com](mailto:digifuzzverse@gmail.com)  
+Website: [https://digifuzzverse.nl](https://digifuzzverse.nl)
 
 ---
 
-## 4. When We Disclose Information
-
-We do not share any data with:
-
-* Third‑party companies
-* Advertisers
-* Analytics providers
-* Cloud services
-* Social networks
-
-The only external systems involved are the standard Meta Quest platform services, which operate independently of the App.
-
----
-
-## 5. Your Rights and Choices
-
-Even though the App does not collect personal data, GDPR grants you the following rights:
-
-* Right of access
-* Right to rectification
-* Right to erasure
-* Right to restrict processing
-* Right to data portability
-* Right to object
-
-If you believe the App processes personal data (even unintentionally), you may contact us to exercise your rights.
-
----
-
-## 6. Legal Bases for Processing (GDPR)
-
-Because the App processes only minimal, non‑personal data, our legal bases are:
-
-* **Art. 6(1)(b)** – Performance of a contract (the App must process interaction data to function)
-* **Art. 6(1)(f)** – Legitimate interest (local gameplay functionality)
-
-We do not rely on consent for any processing.
-
----
-
-## 7. Third‑Party Services
-
-The App does not integrate with:
-
-* Analytics services
-* Advertising networks
-* Cloud storage
-* Social media SDKs
-* Payment processors
-
-The App runs entirely offline.
-
----
-
-## 8. Children's Privacy
-
-The App does not collect personal data and contains no online features.
-It is suitable for users of all ages as permitted by the Meta platform.
-
----
-
-## 9. Data Security
-
-We implement the following measures:
-
-* No external data transmission
-* No cloud storage
-* No analytics SDKs
-* Local‑only storage
-* Automatic deletion upon uninstall
-
-These measures ensure your data remains private and under your control.
-
----
-
-## 10. Retention
-
-All data is stored locally and is deleted automatically when the App is uninstalled.
-We do not retain any data on external servers.
-
----
-
-## 11. International Visitors
-
-Because the App does not transmit or store data externally, no international data transfers occur.
-
----
-
-## 12. Changes to This Policy
-
-We may update this Policy to reflect improvements or legal requirements.
-Updates will be published with a new "Effective Date."
-
----
-
-## 13. How to Contact Us
-
-For privacy inquiries or GDPR requests:
-
-**Developer:** Orestis Spyrou
-
-**Email:** digifuzzverse@gmail.com
-
-**Location:** Wageningen, Netherlands
-
----
-
-*Last Updated: October 2026*
+This Policy describes the App’s stated practices and is a general draft, not legal advice. Verify it against the current App build, its SDKs and platform settings, and actual data flows before publishing or relying on it.
